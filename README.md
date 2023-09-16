@@ -1,2 +1,8 @@
-# svelte-tailwind
-Svelte tailwind template using bun
+# Svelte + TS + Vite + Bun
+
+## Installation 
+
+```bash
+bun install
+```
+
