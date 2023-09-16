@@ -6,3 +6,14 @@
 bun install
 ```
 
+## Usage
+
+### Dev server
+```bash
+bun run dev
+```
+
+### Prod server
+```bash
+bun run start
+```
